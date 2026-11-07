@@ -82,13 +82,3 @@ Availability and functionality may depend on changes to TikTok's services.
 ---
 
 **TikPort — Bringing TikTok to the big screen.**
-
-## Credits
-
-- **TikPort** – Application development
-- **TokKit** – TikTok data retrieval
-- **Roku** – SceneGraph and BrightScript platform
-
----
-
-**TikPort — Bringing TikTok to the big screen.**
